@@ -1,0 +1,43 @@
+# ~/.gitignore_global
+# Global gitignore file
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*~
+*.swp
+*.swo
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+
+# Compiled files
+*.class
+*.o
+*.so
+*.pyc
+__pycache__/
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual environment directories
+venv/
+ENV/
+.env/
